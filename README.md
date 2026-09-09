@@ -35,9 +35,6 @@ A Smart Traffic Management System is a Python based application that looks at ho
 - Google Colab / Python IDE
 
 ## 4. Installation
+Since this project is a Python based application that has modules installation requires cloning the repository and then running the main Python file. Clone the Repository: Open your terminal. Command prompt and run: 
 
-### Step 1: Get the Code
 
-```bash
-
-git clone <your-github-repository-link>
