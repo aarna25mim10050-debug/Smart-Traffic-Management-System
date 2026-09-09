@@ -36,5 +36,8 @@ A Smart Traffic Management System is a Python based application that looks at ho
 
 ## 4. Installation
 Since this project is a Python based application that has modules installation requires cloning the repository and then running the main Python file. Clone the Repository: Open your terminal. Command prompt and run: 
+git clone https://github.com/aarna25mim10050-debug/Smart-Traffic-Management-System.git
+cd Smart-Traffic-Management-System
+python main.py
 
 
