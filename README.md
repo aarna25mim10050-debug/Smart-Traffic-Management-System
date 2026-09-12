@@ -40,4 +40,9 @@ git clone https://github.com/aarna25mim10050-debug/Smart-Traffic-Management-Syst
 cd Smart-Traffic-Management-System
 python main.py
 
+# 5. Screenshots of output
+<img width="220" height="230" alt="image" src="https://github.com/user-attachments/assets/ce9466c3-ac68-46ad-a6b4-1e8d910098a3" />
+<img width="213" height="224" alt="image" src="https://github.com/user-attachments/assets/5960ed6e-7604-49ca-9a9e-6eeea94f9934" />
+
+
 
